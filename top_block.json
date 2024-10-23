@@ -1,0 +1,242 @@
+{
+    "block_instance_mappings": {
+        "a6cfc399-1b75-4851-8001-c2e08fc5e314": {
+            "block": "7ae4fd78-4021-48a6-bf35-e9ceda5bf26c",
+            "components": {
+                "0631bb7b-fd3a-4e35-82be-5d94123dcfae": {
+                    "nopopulate": false,
+                    "refdes": "R201"
+                },
+                "565bffd7-5f03-4a10-95ce-0f9cee26f08f": {
+                    "nopopulate": false,
+                    "refdes": "D201"
+                },
+                "9c56e0e2-8b59-4ddb-a2e9-6fb8e36080ad": {
+                    "nopopulate": false,
+                    "refdes": "C201"
+                },
+                "af23f752-be30-4da0-bcb1-821e0584f637": {
+                    "nopopulate": false,
+                    "refdes": "J201"
+                }
+            }
+        },
+        "dbd367ed-01ba-4759-aa09-a7ca033e4f8b": {
+            "block": "4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec",
+            "components": {
+                "1df47f15-70f1-4806-986e-2499bad649d2": {
+                    "nopopulate": false,
+                    "refdes": "C302"
+                },
+                "41576aa7-54b4-42d1-ad46-597363be3b73": {
+                    "nopopulate": false,
+                    "refdes": "TP301"
+                },
+                "54b67df4-9c2b-4ccd-aa61-fe2b97cbf6aa": {
+                    "nopopulate": false,
+                    "refdes": "C301"
+                },
+                "7090a281-a2f0-42c1-a0ec-765e2b7bcf5a": {
+                    "nopopulate": false,
+                    "refdes": "U301"
+                },
+                "73ab1451-e70c-4e20-bb41-ed69ba2c8bda": {
+                    "nopopulate": false,
+                    "refdes": "C304"
+                },
+                "7ac6022c-6917-4447-b233-8fb3a6693a7b": {
+                    "nopopulate": false,
+                    "refdes": "C306"
+                },
+                "80535c38-f8fd-42c3-a951-aaac0bf76bd3": {
+                    "nopopulate": false,
+                    "refdes": "R302"
+                },
+                "bb394a32-a850-4b4d-9609-8edb9534ed30": {
+                    "nopopulate": false,
+                    "refdes": "TP304"
+                },
+                "cc260a8e-080d-436c-a044-872445b9f14b": {
+                    "nopopulate": false,
+                    "refdes": "TP303"
+                },
+                "cc302700-2dc9-4376-b4d2-3160053e8989": {
+                    "nopopulate": false,
+                    "refdes": "TP302"
+                },
+                "cd12b36a-02c6-482e-8695-9ee661b67a5d": {
+                    "nopopulate": false,
+                    "refdes": "R301"
+                },
+                "d4d8878f-b445-48cf-95f2-6587bbd91630": {
+                    "nopopulate": false,
+                    "refdes": "J301"
+                },
+                "de2c51d1-e2a1-4608-8ac8-40252e1e9c83": {
+                    "nopopulate": false,
+                    "refdes": "C307"
+                },
+                "e9f8edb8-18f6-495f-8859-46b02e5770f5": {
+                    "nopopulate": true,
+                    "refdes": "R303"
+                },
+                "eaa9125e-718c-4453-a3f2-9499ea68f01a": {
+                    "nopopulate": false,
+                    "refdes": "C305"
+                },
+                "eeb1f926-2e4a-4272-a253-28b4bb6249aa": {
+                    "nopopulate": false,
+                    "refdes": "TP305"
+                },
+                "f33ea26a-8a37-4b9e-a1a2-4fb3a068e3ca": {
+                    "nopopulate": false,
+                    "refdes": "C303"
+                },
+                "f8fd0ee3-317d-42db-a53d-b9eb2dc82d1b": {
+                    "nopopulate": false,
+                    "refdes": "R304"
+                }
+            }
+        }
+    },
+    "block_instances": {
+        "a6cfc399-1b75-4851-8001-c2e08fc5e314": {
+            "block": "7ae4fd78-4021-48a6-bf35-e9ceda5bf26c",
+            "connections": {
+                "2eea2a10-ae07-4203-ba34-4eb4425b2bc6": {
+                    "net": "2eef060c-6482-4f9c-81cc-2b512d453375"
+                },
+                "8d069c0b-5741-4314-935e-ab9992d0c635": {
+                    "net": "0a6da269-c5d7-43f3-a6e2-8b5d7898d624"
+                },
+                "b44da8a3-6262-4d0f-b03d-69d5ed5d4cb0": {
+                    "net": "96f9817f-b21f-403e-bc66-c0271b36617f"
+                },
+                "fa2f4a09-d4fb-4ce1-a40d-7333159f558d": {
+                    "net": "41e103ff-c423-4283-948e-50ba615362e4"
+                }
+            },
+            "refdes": "I1"
+        },
+        "dbd367ed-01ba-4759-aa09-a7ca033e4f8b": {
+            "block": "4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec",
+            "connections": {
+                "7667186c-dacd-40da-bf89-99ebc143855c": {
+                    "net": "96f9817f-b21f-403e-bc66-c0271b36617f"
+                },
+                "82ef4e6b-459b-4649-a6ca-6efafc9a8c9d": {
+                    "net": "41e103ff-c423-4283-948e-50ba615362e4"
+                },
+                "83d8e012-eb11-4d24-9854-47433efc7200": {
+                    "net": "2eef060c-6482-4f9c-81cc-2b512d453375"
+                },
+                "a71c132c-253e-4405-a612-9f0a05610529": {
+                    "net": "0a6da269-c5d7-43f3-a6e2-8b5d7898d624"
+                }
+            },
+            "refdes": "I2"
+        }
+    },
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+    "net_classes": {
+        "d94448e5-74b5-4071-b7d1-16dbde92f2e2": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "079580a1-37a2-4945-9ebe-de7543f36e1d": {
+            "is_port": false,
+            "is_power": true,
+            "name": "GND",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "0a6da269-c5d7-43f3-a6e2-8b5d7898d624": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2eef060c-6482-4f9c-81cc-2b512d453375": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "41e103ff-c423-4283-948e-50ba615362e4": {
+            "diffpair": "96f9817f-b21f-403e-bc66-c0271b36617f",
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7f71ba93-3c64-4201-93fd-946377931a47": {
+            "is_port": false,
+            "is_power": true,
+            "name": "3V3",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "dot"
+        },
+        "96f9817f-b21f-403e-bc66-c0271b36617f": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "9a3a764c-9641-4a8c-b960-1d92293548b2": {
+            "is_port": false,
+            "is_power": true,
+            "name": "3V3 Analog",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "dot"
+        }
+    },
+    "project_meta": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2024-10-19",
+        "license": "CC BY-SA 4.0",
+        "project_name": "minisolder",
+        "project_title": "minisolder",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "6f0f4f8e-fe7d-48e4-92de-1d23a0da54e8"
+}

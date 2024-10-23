@@ -1,0 +1,315 @@
+{
+    "manufacturer": "Microchip",
+    "name": "UPD301B/C",
+    "pins": {
+        "0192fffa-f35f-464c-bc9a-4be46b633073": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SWCLK",
+            "swap_group": 0
+        },
+        "050572c7-6c5c-470d-a0c9-c9041dbcf21a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA06",
+            "swap_group": 0
+        },
+        "07860271-620a-45d4-839f-f7141ddf9c73": {
+            "alt_names": {
+                "5672c007-c152-4633-8214-393fbe128af1": {
+                    "direction": "bidirectional",
+                    "name": "GPIO9"
+                },
+                "671a09f6-1800-497b-8ca3-0a8f2e79388f": {
+                    "direction": "bidirectional",
+                    "name": "PA27"
+                },
+                "9923ccd6-d460-4e92-92cf-e09465aaa2f2": {
+                    "direction": "bidirectional",
+                    "name": "HPD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA27/GPIO9",
+            "swap_group": 0
+        },
+        "0a6a2391-4bed-4aca-8574-6dad8f4b5815": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VPP18",
+            "swap_group": 0
+        },
+        "1c615646-2f58-403d-b1bd-6aa9d968f341": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33_ALW_IN",
+            "swap_group": 0
+        },
+        "1e1b98b3-cf0f-4442-adea-cfa266214476": {
+            "alt_names": {
+                "38a8a8fc-0e29-4434-8535-a7e2ad323303": {
+                    "direction": "bidirectional",
+                    "name": "PA18"
+                },
+                "ff7e47d4-c4c3-4102-8df5-45f93eca693c": {
+                    "direction": "output",
+                    "name": "GPO4"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA18/GPO4",
+            "swap_group": 0
+        },
+        "20876be3-e622-4911-aa8a-5dda49f436bf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33_IO_IN",
+            "swap_group": 0
+        },
+        "2b3ed8f3-97a7-447e-a073-69419e3c04a7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "311af555-cd65-4706-8159-f56197119751": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33_REG_IN",
+            "swap_group": 0
+        },
+        "46b08a56-d970-4f21-b607-a1f1f199b242": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "5725713b-bed5-45ed-91a2-4253eb514ad9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA16",
+            "swap_group": 0
+        },
+        "5b7fe2e1-4282-4cec-89f5-e631441fdcf8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET_CPU",
+            "swap_group": 0
+        },
+        "62d66ecb-3fa6-4765-9142-3e491ac7bf6d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA17",
+            "swap_group": 0
+        },
+        "6427589e-55c2-4be5-a017-54c21ef606ee": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD12_CORE_OUT",
+            "swap_group": 0
+        },
+        "685632c8-570d-4801-9bca-a4350185ba86": {
+            "alt_names": {
+                "04a89e18-da56-49c3-acd5-7ef343c626f6": {
+                    "direction": "bidirectional",
+                    "name": "GPIO6"
+                },
+                "201140be-222e-4010-a6ce-f6b692581665": {
+                    "direction": "bidirectional",
+                    "name": "PA22"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA22/GPIO6",
+            "swap_group": 0
+        },
+        "6e5240e0-ee5f-457c-9df3-d00a79df5da8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA28",
+            "swap_group": 0
+        },
+        "6f440926-d059-4e34-8176-9d5269d0edc3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        },
+        "7319bdb5-a1c0-4066-8e9a-39179e52b074": {
+            "alt_names": {
+                "214e3fa0-7643-48f2-bb9f-23078e61e0af": {
+                    "direction": "bidirectional",
+                    "name": "GPIO7"
+                },
+                "d2db48c7-d694-4b0a-a875-04dfaf1ef999": {
+                    "direction": "bidirectional",
+                    "name": "PA23"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA23/GPIO7",
+            "swap_group": 0
+        },
+        "766732cd-6c17-440a-b5b2-a9ae8c71bc58": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3",
+            "swap_group": 0
+        },
+        "79f40611-3ff8-47df-bea8-85ed2faeb442": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_SS0",
+            "swap_group": 0
+        },
+        "7d295724-d911-4c1b-9795-82a23f33307c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA04",
+            "swap_group": 0
+        },
+        "80d49599-3ffe-4cf6-9675-a289280da3f2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33_ANA_IN",
+            "swap_group": 0
+        },
+        "80ff3631-0b59-4bba-aeb5-33faf479ea13": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "914c0645-7774-4b6b-9e04-b2dca27d4a6c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA05",
+            "swap_group": 0
+        },
+        "96eadb5e-cdb0-4e56-8446-29347095a492": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_DET_IN",
+            "swap_group": 0
+        },
+        "9ab77e98-fd1a-4603-8808-3e0de9d30fc6": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18_CORE_OUT",
+            "swap_group": 0
+        },
+        "9d6f0ca7-0e61-4455-a072-ed5d35dec231": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA01",
+            "swap_group": 0
+        },
+        "a306e120-79c5-4590-87ac-5e81f59fd761": {
+            "alt_names": {
+                "4d453263-10a1-468f-8b98-e6a9c114b8e2": {
+                    "direction": "bidirectional",
+                    "name": "GPIO5"
+                },
+                "54ce24fe-07f1-4509-85fc-88a0347e45d3": {
+                    "direction": "bidirectional",
+                    "name": "PA19"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA19/GPIO5",
+            "swap_group": 0
+        },
+        "a3cf4987-758f-46a3-b950-76f466c028e0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VCONN_IN",
+            "swap_group": 0
+        },
+        "a510bffd-62b3-4733-8bce-f3b19a4b961b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA02",
+            "swap_group": 0
+        },
+        "a7031f83-7005-4963-9bd1-502c5a4425f0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET_UPD",
+            "swap_group": 0
+        },
+        "b3dea575-3da4-4873-9a6f-aa771c39e566": {
+            "alt_names": {
+                "70d73a1e-9777-440d-b44f-e6f511d3a75a": {
+                    "direction": "input",
+                    "name": "OCS_COMP2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2",
+            "swap_group": 0
+        },
+        "bb5f1381-d72e-4677-80b1-952ef859bea5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPI_MISO",
+            "swap_group": 0
+        },
+        "bc69dd13-e7cd-4084-8a60-8949875b7660": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_CLK",
+            "swap_group": 0
+        },
+        "c9502797-92c8-4a96-af26-a7e9b6edee0b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPI_MOSI",
+            "swap_group": 0
+        },
+        "d060fb51-1167-48e2-a4f6-15bfffbc6149": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_IRQ_N0",
+            "swap_group": 0
+        },
+        "e2f83b0a-a71b-4076-84ed-fd29de848869": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA15",
+            "swap_group": 0
+        },
+        "e4813e9e-7253-4381-8ea5-de42fed5209f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA00",
+            "swap_group": 0
+        },
+        "ef79a432-7cfb-4865-9d7e-c898c7373365": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO8",
+            "swap_group": 0
+        },
+        "fb4d51a6-037c-4e84-8d10-aba406b87f06": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA03",
+            "swap_group": 0
+        },
+        "fe9864de-6828-4f2c-abfa-77da6d7fe15f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_MOSI_SI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5f557b8a-d150-4529-870b-7320de9c78ef",
+    "version": 1
+}

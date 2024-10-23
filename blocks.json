@@ -1,0 +1,26 @@
+{
+    "blocks": {
+        "4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec": {
+            "block_filename": "blocks/4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec/block.json",
+            "schematic_filename": "blocks/4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec/schematic.json",
+            "symbol_filename": "blocks/4e19565e-96ce-44ee-93b8-f4c3dcf8f7ec/symbol.json"
+        },
+        "59c59c66-a42c-46ef-8af6-3cea84e406e9": {
+            "block_filename": "blocks/59c59c66-a42c-46ef-8af6-3cea84e406e9/block.json",
+            "schematic_filename": "blocks/59c59c66-a42c-46ef-8af6-3cea84e406e9/schematic.json",
+            "symbol_filename": "blocks/59c59c66-a42c-46ef-8af6-3cea84e406e9/symbol.json"
+        },
+        "6f0f4f8e-fe7d-48e4-92de-1d23a0da54e8": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        },
+        "7ae4fd78-4021-48a6-bf35-e9ceda5bf26c": {
+            "block_filename": "blocks/7ae4fd78-4021-48a6-bf35-e9ceda5bf26c/block.json",
+            "schematic_filename": "blocks/7ae4fd78-4021-48a6-bf35-e9ceda5bf26c/schematic.json",
+            "symbol_filename": "blocks/7ae4fd78-4021-48a6-bf35-e9ceda5bf26c/symbol.json"
+        }
+    },
+    "top_block": "6f0f4f8e-fe7d-48e4-92de-1d23a0da54e8",
+    "type": "blocks"
+}

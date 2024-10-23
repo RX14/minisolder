@@ -1,0 +1,214 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "6f0f4f8e-fe7d-48e4-92de-1d23a0da54e8",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "03a507d5-ff5c-4fa8-9801-b95f0c9b0bed": {
+            "arcs": {},
+            "block_symbols": {
+                "27a78c38-eaff-461d-a202-76cae8ee92ff": {
+                    "block_instance": "dbd367ed-01ba-4759-aa09-a7ca033e4f8b",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            78750000,
+                            112500000
+                        ]
+                    }
+                },
+                "cfe4cd70-a49e-43ac-8508-b44453812987": {
+                    "block_instance": "a6cfc399-1b75-4851-8001-c2e08fc5e314",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            23750000,
+                            115000000
+                        ]
+                    }
+                }
+            },
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "c4ca0500-85c4-4744-a625-e9ecbb900a88",
+            "index": 1,
+            "junctions": {
+                "186fd38a-0109-4122-8192-fa6768377577": {
+                    "position": [
+                        50000000,
+                        111250000
+                    ]
+                },
+                "5908aa58-fce9-4782-837d-db4f0e59e449": {
+                    "position": [
+                        50000000,
+                        107500000
+                    ]
+                },
+                "e82c22b9-64aa-45d7-84b2-efb1d82929f7": {
+                    "position": [
+                        50000000,
+                        110000000
+                    ]
+                },
+                "fbb8e226-e223-4234-966c-463bd0377dc4": {
+                    "position": [
+                        50000000,
+                        108750000
+                    ]
+                }
+            },
+            "lines": {},
+            "name": "Top",
+            "net_labels": {},
+            "net_lines": {
+                "067ec86b-d922-484b-9a53-965402abfb0d": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "fbb8e226-e223-4234-966c-463bd0377dc4",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "5908aa58-fce9-4782-837d-db4f0e59e449",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "1d9017f1-dc5b-464e-af37-a735b89a54b4": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "cfe4cd70-a49e-43ac-8508-b44453812987/8aa780df-a52d-522f-9d22-fb2821892683"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "27a78c38-eaff-461d-a202-76cae8ee92ff/77a9924b-5dc3-52a9-a791-fc1657926817"
+                    }
+                },
+                "1f41849c-5e48-4d3b-a536-356b4c605a40": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "e82c22b9-64aa-45d7-84b2-efb1d82929f7",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "27a78c38-eaff-461d-a202-76cae8ee92ff/2adecf98-ce11-50db-910b-5bdafb4dd744"
+                    }
+                },
+                "3b8e0241-d232-4edf-9248-e228e1c8a3c2": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "5908aa58-fce9-4782-837d-db4f0e59e449",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "27a78c38-eaff-461d-a202-76cae8ee92ff/b93ceae2-2d44-5618-8a03-588cff835bd7"
+                    }
+                },
+                "8829b11c-be1b-479e-afa3-0be78767a66e": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "27a78c38-eaff-461d-a202-76cae8ee92ff/c1c52293-87ab-52a0-a888-2051142042ba"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "cfe4cd70-a49e-43ac-8508-b44453812987/56f269af-a943-584e-9fc9-1e4d08ff1bd1"
+                    }
+                },
+                "e5793a35-7ebc-4fb8-bf76-ac5f689c8b84": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "cfe4cd70-a49e-43ac-8508-b44453812987/3680d1ca-26eb-5408-b609-2583dc2223fc"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "186fd38a-0109-4122-8192-fa6768377577",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "e78a634d-a67e-417e-b2cf-80ebe991e36d": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "186fd38a-0109-4122-8192-fa6768377577",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "e82c22b9-64aa-45d7-84b2-efb1d82929f7",
+                        "pin": null,
+                        "port": null
+                    }
+                },
+                "f5e9c522-12fa-42cd-bb68-b3b57f336618": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": null,
+                        "port": "cfe4cd70-a49e-43ac-8508-b44453812987/e579ca25-b721-54c9-8b63-e17db7435ab2"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "fbb8e226-e223-4234-966c-463bd0377dc4",
+                        "pin": null,
+                        "port": null
+                    }
+                }
+            },
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2024-10-19",
+        "license": "CC BY-SA 4.0",
+        "project_name": "minisolder",
+        "project_title": "minisolder",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "7aa55d54-a94a-4421-8602-eaca51d5d8df",
+    "version": 8
+}

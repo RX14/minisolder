@@ -1,0 +1,96 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Heating Element Drive",
+    "net_class_default": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+    "net_classes": {
+        "d94448e5-74b5-4071-b7d1-16dbde92f2e2": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "079580a1-37a2-4945-9ebe-de7543f36e1d": {
+            "is_port": false,
+            "is_power": true,
+            "name": "GND",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "07ebc311-1ab4-48b3-a9bb-eea52d7c73a4": {
+            "is_port": true,
+            "is_power": false,
+            "name": "ELEMENT-",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "629cfd84-74bb-461b-bfbc-737d0220e3c9": {
+            "is_port": true,
+            "is_power": false,
+            "name": "VIN",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "power_input",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "7f71ba93-3c64-4201-93fd-946377931a47": {
+            "is_port": false,
+            "is_power": true,
+            "name": "3V3",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "dot"
+        },
+        "9a3a764c-9641-4a8c-b960-1d92293548b2": {
+            "is_port": false,
+            "is_power": true,
+            "name": "3V3 Analog",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "dot"
+        },
+        "d0925bec-e976-470a-b37e-c9cf33b19284": {
+            "is_port": true,
+            "is_power": false,
+            "name": "ELEMENT+",
+            "net_class": "d94448e5-74b5-4071-b7d1-16dbde92f2e2",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "project_meta": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2024-10-19",
+        "license": "CC BY-SA 4.0",
+        "project_name": "minisolder",
+        "project_title": "minisolder",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "59c59c66-a42c-46ef-8af6-3cea84e406e9"
+}

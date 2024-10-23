@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-07330RL"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        true,
+        "General Purpose Chip resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "330"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6ccd1097-a5a0-42fc-82d5-d99dcdd158e1",
+    "value": [
+        false,
+        "330 Ω"
+    ]
+}

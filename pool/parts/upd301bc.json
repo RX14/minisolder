@@ -1,0 +1,209 @@
+{
+    "MPN": [
+        false,
+        "UPD301B/C"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/DataSheets/00003412A.pdf"
+    ],
+    "description": [
+        false,
+        "Stand-alone USB Type-C™ Power Delivery 3.0 Controller"
+    ],
+    "entity": "8aa9aab7-f956-475f-8b53-abbc10d8bcf9",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d4ef1f5d-2af4-42c6-92a2-2df7aa8b1763",
+    "pad_map": {
+        "0285392e-4310-40c9-abb2-13782be94abb": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "1c615646-2f58-403d-b1bd-6aa9d968f341"
+        },
+        "02c0c6f5-212c-4eee-9c2b-5f1c49ef2ea7": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "6f440926-d059-4e34-8176-9d5269d0edc3"
+        },
+        "070682f0-1c23-4c2a-8fe2-9c79819f0e50": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "e2f83b0a-a71b-4076-84ed-fd29de848869"
+        },
+        "0dd3ae17-bb2a-467e-b8a4-1f9046816c09": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "6427589e-55c2-4be5-a017-54c21ef606ee"
+        },
+        "1d4d96f7-e9a4-4063-9806-82cdd7f73065": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "ef79a432-7cfb-4865-9d7e-c898c7373365"
+        },
+        "1eaf3169-4724-46d4-b436-da6038887099": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "20876be3-e622-4911-aa8a-5dda49f436bf"
+        },
+        "2606e863-3eb9-4792-bbac-c19fddeb0615": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "914c0645-7774-4b6b-9e04-b2dca27d4a6c"
+        },
+        "30668a32-2502-40c4-97fe-291226434214": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "62d66ecb-3fa6-4765-9142-3e491ac7bf6d"
+        },
+        "31ba43f3-35da-40e7-ad42-53034b2b881e": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "a3cf4987-758f-46a3-b950-76f466c028e0"
+        },
+        "4368b3a9-294d-45aa-850a-34b293c0a546": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "c9502797-92c8-4a96-af26-a7e9b6edee0b"
+        },
+        "44a54a78-29e3-45fe-8d07-aa91257057a4": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "685632c8-570d-4801-9bca-a4350185ba86"
+        },
+        "47c322ad-60ae-4fb0-a681-304c42667f8c": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "b3dea575-3da4-4873-9a6f-aa771c39e566"
+        },
+        "57deeb23-2e16-4a1e-8326-8e3213febd3e": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "bc69dd13-e7cd-4084-8a60-8949875b7660"
+        },
+        "65225ee0-bdee-4e10-8844-427cffa08dee": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "1e1b98b3-cf0f-4442-adea-cfa266214476"
+        },
+        "68bd5b79-41a8-4cd1-9b63-f9949fb3463b": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "a306e120-79c5-4590-87ac-5e81f59fd761"
+        },
+        "6ac6ac59-7c7e-42fe-a1cf-85c201ce6ffd": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "5725713b-bed5-45ed-91a2-4253eb514ad9"
+        },
+        "6f24ae38-4fd9-471e-bc5e-07935a420f3f": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "07860271-620a-45d4-839f-f7141ddf9c73"
+        },
+        "72338fb8-0538-4e9e-b9e6-627a2ca09127": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "311af555-cd65-4706-8159-f56197119751"
+        },
+        "731725e0-5349-4d39-9807-21ee628b8ce0": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "050572c7-6c5c-470d-a0c9-c9041dbcf21a"
+        },
+        "783a4f35-65d7-4579-9abf-b1bdd5694290": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "96eadb5e-cdb0-4e56-8446-29347095a492"
+        },
+        "827cb3d1-4733-428c-b16a-1c4ede839d8f": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "2b3ed8f3-97a7-447e-a073-69419e3c04a7"
+        },
+        "8458e2e3-c2e9-481b-bab0-5720220501a2": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "80d49599-3ffe-4cf6-9675-a289280da3f2"
+        },
+        "8fbe2d8d-5e81-4c7f-a3e1-dfa7156704f9": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "80ff3631-0b59-4bba-aeb5-33faf479ea13"
+        },
+        "93272253-aca0-4fb4-b72c-4ea116b7a302": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "fe9864de-6828-4f2c-abfa-77da6d7fe15f"
+        },
+        "a06291ce-1604-4b71-b9f9-6bd87b90f781": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "bb5f1381-d72e-4677-80b1-952ef859bea5"
+        },
+        "ac576aae-0438-4b74-b92e-f124860c639b": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "79f40611-3ff8-47df-bea8-85ed2faeb442"
+        },
+        "ae513fe5-7dfe-4c81-bd75-bdc41a57c46b": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "e4813e9e-7253-4381-8ea5-de42fed5209f"
+        },
+        "b2c01f0e-1a90-4268-8f9b-216bb4487fe4": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "d060fb51-1167-48e2-a4f6-15bfffbc6149"
+        },
+        "b80be19a-fcc1-4147-aed9-7b5cf9340272": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "0a6a2391-4bed-4aca-8574-6dad8f4b5815"
+        },
+        "bcfe5de0-5d39-4ac3-895e-e00e8a7b1fdf": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "a510bffd-62b3-4733-8bce-f3b19a4b961b"
+        },
+        "bf141358-fee2-4efc-a876-f3ceabc3d915": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "0192fffa-f35f-464c-bc9a-4be46b633073"
+        },
+        "c3492348-00d4-4b7b-bb18-bfcc23a62454": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "5b7fe2e1-4282-4cec-89f5-e631441fdcf8"
+        },
+        "c6b1a071-894e-4fbd-877a-449170ce92eb": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "6e5240e0-ee5f-457c-9df3-d00a79df5da8"
+        },
+        "c91b3d5d-607b-4235-8788-58ed2097ecfd": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "7d295724-d911-4c1b-9795-82a23f33307c"
+        },
+        "d18623ae-7774-400d-99da-1711cf6b7d76": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "766732cd-6c17-440a-b5b2-a9ae8c71bc58"
+        },
+        "d7eec470-6462-402b-ba8b-c8902f0430d8": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "7319bdb5-a1c0-4066-8e9a-39179e52b074"
+        },
+        "df852c40-af0f-4d83-bc08-b0107f41d212": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "9ab77e98-fd1a-4603-8808-3e0de9d30fc6"
+        },
+        "ebd8efef-ee10-4a51-a72a-6a0201be99c1": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "fb4d51a6-037c-4e84-8d10-aba406b87f06"
+        },
+        "ef918189-cc6d-41b9-a7f4-9193f60eb068": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "9d6f0ca7-0e61-4455-a072-ed5d35dec231"
+        },
+        "f6e80cea-df23-4778-b1fe-96fd58d0fc51": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "46b08a56-d970-4f21-b607-a1f1f199b242"
+        },
+        "ffa53742-eb9d-4f2f-9884-8b893aea201c": {
+            "gate": "1f70c4f9-3afe-4416-837a-bec361bf3823",
+            "pin": "a7031f83-7005-4963-9bd1-502c5a4425f0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "arm",
+        "ic",
+        "mcu",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "0436b540-aefd-41b2-a7a5-3ca6d8fcb91d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}
