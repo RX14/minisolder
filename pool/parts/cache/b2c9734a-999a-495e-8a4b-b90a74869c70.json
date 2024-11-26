@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "RC0603FR-070RL"
+        "RC0603FR-0752K3L"
     ],
     "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
@@ -19,12 +19,17 @@
         "Yageo"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
-    "parametric": {},
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "52300"
+    },
     "tags": [],
     "type": "part",
-    "uuid": "40c73736-7823-4f6d-bad9-57ad6e1d508c",
+    "uuid": "b2c9734a-999a-495e-8a4b-b90a74869c70",
     "value": [
         false,
-        "0 Ω"
+        "52.3 kΩ"
     ]
 }
