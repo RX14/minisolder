@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e5da453c-ba97-4fa0-8e05-5f6b4e026f87": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c1e24709-6b59-4cec-b9e0-300f651c38f1"
+        }
+    },
+    "manufacturer": "",
+    "name": "Adjustable shunt regulator",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "discrete"
+    ],
+    "type": "entity",
+    "uuid": "66d2fae0-7f0c-4f0d-a1c1-08eeb848fcad"
+}

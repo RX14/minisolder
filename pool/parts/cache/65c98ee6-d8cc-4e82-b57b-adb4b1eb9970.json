@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "RT0603"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Chip Resistor"
+    ],
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "65c98ee6-d8cc-4e82-b57b-adb4b1eb9970",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

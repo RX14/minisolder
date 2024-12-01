@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RT0603BxDx100KL"
+    ],
+    "base": "65c98ee6-d8cc-4e82-b57b-adb4b1eb9970",
+    "datasheet": [
+        false,
+        "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf"
+    ],
+    "description": [
+        true,
+        "100 kΩ, 0.1 %, 25 ppm/K, 0.1 W, Thin Film Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "100000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3196bcdd-41ac-4838-92b1-85fd88533c8c",
+    "value": [
+        true,
+        "100 kΩ"
+    ]
+}

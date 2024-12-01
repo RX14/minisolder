@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "AN431xN"
+    ],
+    "base": "4fd9694e-e4dc-492f-86e7-2f8204618409",
+    "datasheet": [
+        false,
+        "https://www.diodes.com/datasheet/download/AN431.pdf"
+    ],
+    "description": [
+        true,
+        "Adjustable precision shunt regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "2237745c-43e8-41cf-b7d8-18b16eb12f9a": "AN431AN-ATRG1",
+        "2781e4ad-ee0b-49b8-977a-21b84c116b2c": "AN431BN-ATRG1"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f28074db-84e3-4447-958d-651b70f6c655",
+    "value": [
+        true,
+        "base TL431 sot-23"
+    ]
+}

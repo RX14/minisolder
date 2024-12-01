@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "Wide Input Voltage Range, 200MA ULDO Regulator"
+        "Adjustable, 200 mA, Wide Input Voltage Range ULDO Regulator"
     ],
     "entity": "e4d08042-34c6-43aa-b153-ffc7639058f6",
     "inherit_model": true,

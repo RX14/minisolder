@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "RC0603FR-070RL"
+        "RC0603FR-0710KL"
     ],
     "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
@@ -23,13 +23,13 @@
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "0"
+        "value": "10000"
     },
     "tags": [],
     "type": "part",
-    "uuid": "b5c97a02-4851-4245-b1e7-5da6198cdc4e",
+    "uuid": "e119907a-8779-40ff-9fcb-df4f7b3b0493",
     "value": [
         false,
-        "0 Ω"
+        "10 kΩ"
     ]
 }

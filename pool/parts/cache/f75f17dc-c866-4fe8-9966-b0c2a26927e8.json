@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "base SOT-8002-1 N-channel MOSFET"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "base N-channel MOSFET, SOT-8002-1"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "95a0f057-c93e-4c68-b7c3-ae4f371def1f",
+    "pad_map": {
+        "48f79fbd-ee34-4aa1-92e2-a6878e9eaf68": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "85c0c52d-4bf1-4302-8ab9-5c7ac7a02381": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "a01769be-0807-4edc-a147-321c2860d98e": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "abe99cda-aa0c-4ff6-9503-30ce7c53a3af": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "eb480c33-3957-40f1-829e-c9857e9fce88": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-channel",
+        "smd",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "f75f17dc-c866-4fe8-9966-b0c2a26927e8",
+    "value": [
+        false,
+        ""
+    ]
+}

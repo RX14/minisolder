@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PXN9R0-30QL"
+    ],
+    "base": "f75f17dc-c866-4fe8-9966-b0c2a26927e8",
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PXN9R0-30QL.pdf"
+    ],
+    "description": [
+        false,
+        "30 V N-channel trench MOSFET, SOT-8002-1"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "fd89e942-fae7-4772-9c44-00aa5b11d49c",
+    "value": [
+        true,
+        "base SOT-8002-1 N-channel MOSFET"
+    ]
+}
