@@ -3,51 +3,28 @@
         false,
         "DMP3013SFV"
     ],
+    "base": "25365f0c-bd2f-4f7f-b383-296ed4b1dadd",
     "datasheet": [
-        false,
+        true,
         "https://www.diodes.com/datasheet/download/DMP3013SFV.pdf"
     ],
     "description": [
-        false,
+        true,
         "30 V P-Channel Enhancement Mode MOSFET"
     ],
-    "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
     "inherit_model": true,
-    "inherit_tags": false,
+    "inherit_tags": true,
     "manufacturer": [
-        false,
+        true,
         "Diodes Inc."
     ],
     "model": "00000000-0000-0000-0000-000000000000",
-    "package": "95a0f057-c93e-4c68-b7c3-ae4f371def1f",
-    "pad_map": {
-        "48f79fbd-ee34-4aa1-92e2-a6878e9eaf68": {
-            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
-            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
-        },
-        "85c0c52d-4bf1-4302-8ab9-5c7ac7a02381": {
-            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
-            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
-        },
-        "a01769be-0807-4edc-a147-321c2860d98e": {
-            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
-            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
-        },
-        "abe99cda-aa0c-4ff6-9503-30ce7c53a3af": {
-            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
-            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
-        },
-        "eb480c33-3957-40f1-829e-c9857e9fce88": {
-            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
-            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
-        }
-    },
     "parametric": {},
     "tags": [],
     "type": "part",
     "uuid": "cdebf2f4-31c4-4a4a-b9ad-f422f6a986ce",
     "value": [
-        false,
+        true,
         ""
     ]
 }

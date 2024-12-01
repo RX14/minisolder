@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "23011973-f7d5-42dc-bbfb-df053222b9c2",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -102,7 +102,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "23011973-f7d5-42dc-bbfb-df053222b9c2": {
+            "filename": "3d_models/SOT8002-1.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": -1741945,
+            "y": 2342743,
+            "yaw": 0,
+            "z": -1667665
+        }
+    },
     "name": "SOT-8002-1 (MLPAK33, DFN3333)",
     "pads": {
         "48f79fbd-ee34-4aa1-92e2-a6878e9eaf68": {
