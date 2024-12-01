@@ -1,0 +1,44 @@
+{
+    "gates": {
+        "125c074d-1978-4147-9868-d61a90ecbf98": {
+            "name": "D",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "b1a60a2a-4e9a-4159-8852-a44d0a0ad4e9"
+        },
+        "39184de4-99aa-469c-94ee-047c63cfac0d": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "c5b399c9-5626-4cc6-b33d-5c0f3da5df5c"
+        },
+        "6aa19425-2ed5-4490-a121-57604be433ce": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "b1a60a2a-4e9a-4159-8852-a44d0a0ad4e9"
+        },
+        "8440af2f-e77e-49ec-b29e-e5bd42c7f921": {
+            "name": "C",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "b1a60a2a-4e9a-4159-8852-a44d0a0ad4e9"
+        },
+        "9e2ef68f-5234-4820-9231-03042fb1b658": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "b1a60a2a-4e9a-4159-8852-a44d0a0ad4e9"
+        }
+    },
+    "manufacturer": "",
+    "name": "Quad SPST analog switch",
+    "prefix": "U",
+    "tags": [
+        "generic",
+        "quad",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "1b9bad4c-995e-4449-a31d-e19e26d33594"
+}

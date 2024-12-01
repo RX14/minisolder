@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "2a4a61f8-f21b-4b4d-9ef9-4eef47b6cf74": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8548a3fc-ad7f-4edf-8341-854b32228aae"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "Half-Bridge Gate Driver (bootstrap, single input with enable)",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "0f2b8f24-b51f-47c5-b943-c1997eda1606"
+}

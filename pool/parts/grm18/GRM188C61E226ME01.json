@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "GRM188C61E226ME01"
+    ],
+    "base": "cab72b27-6d92-47d2-9694-d5f2b4b74d91",
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-us/products/productdetail.aspx?partno=GRM188C61E226ME01%23"
+    ],
+    "description": [
+        false,
+        "MLCC General Purpose 22 µF, 25 V, X5S"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5S",
+        "value": "2.2e-05",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a1d79d32-c2a8-4506-9ed9-4ba43300fe20",
+    "value": [
+        false,
+        "22 µF"
+    ]
+}

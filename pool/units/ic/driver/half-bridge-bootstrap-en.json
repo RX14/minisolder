@@ -1,0 +1,56 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "Half-Bridge Gate Driver (bootstrap, single input with enable)",
+    "pins": {
+        "056c2b82-5771-4850-a7ec-51564ec299fd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRVH",
+            "swap_group": 0
+        },
+        "068c2ecc-d82c-4457-9624-a4ee15c9b87c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "46305a19-94c5-4543-8d3d-9293dfe2df84": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Enable",
+            "swap_group": 0
+        },
+        "5b683799-d47a-4a9a-b8d3-2ad2a7e729de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "75a182b5-aabf-4188-b9a7-9a109b9754f5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "850bee62-1df7-422f-a02d-e6440b80ab0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "8d0a8724-cf14-41b7-9180-ed4cb4d6401c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "c56bcc20-bc50-45e4-b1ce-afda204761c1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRVL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8548a3fc-ad7f-4edf-8341-854b32228aae"
+}

@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "AP2205-W5"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/datasheet/download/AP2205.pdf"
+    ],
+    "description": [
+        false,
+        "Wide Input Voltage Range, 200MA ULDO Regulator"
+    ],
+    "entity": "e4d08042-34c6-43aa-b153-ffc7639058f6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "5d6f3163-12ed-45c3-84f4-3e2c714771a6"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3088a854-06fc-417c-a6ab-e5be8f8be82e",
+    "value": [
+        false,
+        ""
+    ]
+}
