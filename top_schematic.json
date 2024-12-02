@@ -5697,6 +5697,7 @@
                 },
                 "3d92b637-5bc1-4ce3-9fa8-a382effa2e91": {
                     "component": "c6202559-02d9-4544-beef-471d49107d51",
+                    "custom_value": "4 kΩ",
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
@@ -5815,6 +5816,7 @@
                 },
                 "67653935-813f-4375-90fd-817c3f6a0ce5": {
                     "component": "65b932a2-eff7-43a5-8366-a8775899584b",
+                    "custom_value": "100 kΩ",
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
@@ -6030,6 +6032,7 @@
                 },
                 "9eae04f6-a1ac-4972-b69d-40d5bafde673": {
                     "component": "5d3b27cd-d1b6-4dc9-826e-b4052080926f",
+                    "custom_value": "4 kΩ",
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
@@ -6068,6 +6071,7 @@
                 },
                 "b0d52fa5-fa11-445b-9118-0076fb7edae7": {
                     "component": "406f4821-eb66-459a-8dc9-5aa117994fe3",
+                    "custom_value": "100 kΩ",
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
