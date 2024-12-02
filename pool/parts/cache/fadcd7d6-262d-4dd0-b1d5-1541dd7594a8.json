@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "HHXD350ARA680MF80G"
+    ],
+    "base": "0445c2e9-b828-4a2d-b8f9-f18392cc771c",
+    "datasheet": [
+        false,
+        "https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/HXDRA-e.PDF"
+    ],
+    "description": [
+        false,
+        "68 µF, 35 V, 20 %, Conductive Polymer Hybrid Aluminum Electrolytic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Nippon Chemi-Con Corporation"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "6.8e-05",
+        "wvdc": "35"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "fadcd7d6-262d-4dd0-b1d5-1541dd7594a8",
+    "value": [
+        false,
+        "68 µF"
+    ]
+}

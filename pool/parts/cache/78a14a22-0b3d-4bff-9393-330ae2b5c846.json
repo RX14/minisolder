@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MSMA2512R0050FEN"
+    ],
+    "base": "dacab9f8-c35e-4037-9913-a942550c978d",
+    "datasheet": [
+        true,
+        "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-msma-automotive-smd-current-sense-resistor-metal-strip-data-sheet-elx1179.pdf"
+    ],
+    "description": [
+        true,
+        "SMD current sensing resistor, metal strip"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Eaton"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {
+        "pmax": "2",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.005"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "78a14a22-0b3d-4bff-9393-330ae2b5c846",
+    "value": [
+        false,
+        "MSMA2512"
+    ]
+}

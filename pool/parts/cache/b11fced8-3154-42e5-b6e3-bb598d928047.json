@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "EXL1V0707-3R3-R"
+    ],
+    "base": "4ed2e7fe-20ca-459d-a3bc-8dde72e2fcd6",
+    "datasheet": [
+        true,
+        "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-exl1v0707-high-current-inductor-data-sheet.pdf"
+    ],
+    "description": [
+        true,
+        "High current molded inductor﻿"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Eaton"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {
+        "dcr": "0.00856",
+        "idc": "11.5",
+        "table": "inductors",
+        "value": "3.3e-06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "b11fced8-3154-42e5-b6e3-bb598d928047",
+    "value": [
+        false,
+        "3.3 µH"
+    ]
+}

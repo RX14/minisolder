@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "base Chemi-Con Polymer F61, F80 Terminal Code A Capacitor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Conductive Polymer Hybrid Aluminum Electrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nippon Chemi-Con Corporation"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bed3c853-18c6-4680-8631-e3f8e84c54ff",
+    "pad_map": {
+        "6d8c3ce7-f625-47ad-8ea0-0a275ff1c5ce": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "98617cb4-4838-4249-898d-28f4cfa7c15e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "aluminum",
+        "capacitor",
+        "electrolytic",
+        "hybrid",
+        "polymer"
+    ],
+    "type": "part",
+    "uuid": "0445c2e9-b828-4a2d-b8f9-f18392cc771c",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

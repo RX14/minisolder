@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "EXL1V0707"
+    ],
+    "datasheet": [
+        false,
+        "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-exl1v0707-high-current-inductor-data-sheet.pdf"
+    ],
+    "description": [
+        false,
+        "High current molded inductor﻿"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Eaton"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ed9f2445-2c61-47d8-acb7-39888b2d015e",
+    "pad_map": {
+        "c4e3a0ef-4dc0-48f3-b349-abd30dc6bc4a": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "f5ef5601-2e93-4abc-9b20-eac18d89d076": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "power",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "4ed2e7fe-20ca-459d-a3bc-8dde72e2fcd6",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

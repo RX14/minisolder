@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "MSMA2512"
+    ],
+    "datasheet": [
+        false,
+        "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-msma-automotive-smd-current-sense-resistor-metal-strip-data-sheet-elx1179.pdf"
+    ],
+    "description": [
+        false,
+        "SMD current sensing resistor, metal strip"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Eaton"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d12a6813-c488-4b32-978f-65f1ab980207",
+    "pad_map": {
+        "09f0ee97-84d5-4766-96a4-8c2f02ed0ba2": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "22e0a9e3-a816-4ca6-b0cd-34fd51db95b8": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "dacab9f8-c35e-4037-9913-a942550c978d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}
