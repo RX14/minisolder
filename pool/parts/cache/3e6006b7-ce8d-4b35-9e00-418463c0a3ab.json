@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-0716K5L"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "16500"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3e6006b7-ce8d-4b35-9e00-418463c0a3ab",
+    "value": [
+        false,
+        "16.5 kΩ"
+    ]
+}
