@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "2f46c84c-2f95-451f-b857-fdb1f8cc3d91": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4dec5d66-4980-4d10-94fd-73e08b8734ad"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "FUSB307B",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c98d105b-0ed0-4926-b3af-3322f3692d07"
+}

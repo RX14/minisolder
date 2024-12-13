@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DMN3731U"
+    ],
+    "base": "bc4a2e05-f398-41ec-bf5b-112248834174",
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/DMN3731U.pdf"
+    ],
+    "description": [
+        false,
+        "30 V, 560 mΩ @ 2.5 V, SOT-23 N-channel MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b7165e11-6c0e-4aa3-b182-923460480457",
+    "value": [
+        true,
+        "base SOT-23 N-channel MOSFET"
+    ]
+}

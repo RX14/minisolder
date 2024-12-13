@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BZT52-C10"
+    ],
+    "base": "77f1412d-bb91-42c9-ba03-d2ce080e5e81",
+    "datasheet": [
+        false,
+        "https://www.panjit.com.tw/en/Product/downloadPDF/BZT52-C10"
+    ],
+    "description": [
+        false,
+        "10 V, 412 mW zener diode"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panjit"
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ba2ef80b-786b-48fa-af45-d6159534867a",
+    "value": [
+        false,
+        "10 V"
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "RC0603FR-074K02L"
+        "RC0603FR-0722RL"
     ],
     "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
@@ -23,13 +23,13 @@
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "4000"
+        "value": "22"
     },
     "tags": [],
     "type": "part",
-    "uuid": "ed06d33c-c26a-4272-a7b0-e98fe95f3605",
+    "uuid": "cee29054-0cae-4f73-b899-9f99fdf68f9e",
     "value": [
         false,
-        "4.02 kΩ"
+        "22 Ω"
     ]
 }

@@ -1,0 +1,83 @@
+{
+    "MPN": [
+        false,
+        "CH9340K"
+    ],
+    "datasheet": [
+        false,
+        "https://www.wch-ic.com/downloads/CH9340DS_PDF.html"
+    ],
+    "description": [
+        false,
+        "USB to UART"
+    ],
+    "entity": "ce26ab68-a4c3-4d80-8a1b-0650194b2485",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "WCH"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8b40fe8d-e313-4aa2-b67c-c2c1f1a23c03",
+    "pad_map": {
+        "45b3addf-eca4-4bf9-89db-9d147fb94717": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "b7001a9b-7a2a-4ecb-8466-e7111dacc498"
+        },
+        "4d39dd03-531e-4e5d-86e1-b3216aed067b": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "e9723859-97c2-4c97-b299-b88e1d99fe2a"
+        },
+        "6746dbbd-e060-419d-9b27-85758d816255": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "700b7a09-f764-46d3-917c-3c46bf084be1"
+        },
+        "6b1ddbac-e9a3-4377-baf4-a49f0a434384": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "96ccd736-ca42-4ff7-9751-4f7e402e4039"
+        },
+        "6de8da4c-2a11-4858-8e58-61f62ebaea56": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "24786f0c-1e9d-4141-99bb-0c57f32a76b7"
+        },
+        "82f53cbc-3072-4945-adde-c45dca8c43ed": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "29e41e3d-5e6b-4a03-abdf-d57e74357c56"
+        },
+        "8bcf7e6f-1d6f-4a6d-85fe-ae6d93846d5c": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "f55998bd-632e-49e0-8757-fbbc2c244833"
+        },
+        "9eba8a98-8804-431b-9d56-4677f1a1495e": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "8b2df396-8bc1-4728-a661-875c77b61693"
+        },
+        "e0cabafa-8e57-4991-bca9-56e4706c17d3": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "00c1fc95-81b5-4a0e-b2aa-98b781e06356"
+        },
+        "ef6e432c-f2ba-4be8-b80f-a336c5b3312f": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "92dfb983-da69-4c0a-9093-bdd51e401c16"
+        },
+        "fc49b815-401e-46ef-af7e-cea33a1a2ec3": {
+            "gate": "020d2960-d0e9-4d08-8fa8-74f98fbedabf",
+            "pin": "17b35a28-2e0f-4920-8a4f-216cb31de2b8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "interface",
+        "smd",
+        "uart",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "a944066d-1d3d-4edc-addf-31571a96abc2",
+    "value": [
+        false,
+        ""
+    ]
+}

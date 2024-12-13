@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PJA3433"
+    ],
+    "base": "03b1c077-db19-40a1-9a65-208053aff665",
+    "datasheet": [
+        false,
+        "https://www.panjit.com.tw/upload/datasheet/PJA3433.pdf"
+    ],
+    "description": [
+        false,
+        "30 V P-Channel Enhancement Mode MOSFET, ESD Protected"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panjit"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8ab33437-6fc8-4d27-8791-4babdb5b8c20",
+    "value": [
+        true,
+        "base sot-23 P-channel MOSFET"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Rotary Encoder with Push button (common terminal)",
+    "pins": {
+        "053881e0-3367-4d75-8ec4-1de6de31dd70": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "COM",
+            "swap_group": 0
+        },
+        "1f71be8c-08a6-4b5e-ad34-94e954a34c73": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Push",
+            "swap_group": 0
+        },
+        "367f1eda-db64-471c-a7d7-37cfba5aea4a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "6e2fd25d-e859-4d46-aeff-267280df738c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4f7d4ee5-d8ef-472b-b63f-9302d2f3dfd3"
+}

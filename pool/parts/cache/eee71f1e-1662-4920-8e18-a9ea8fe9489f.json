@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PMEG3005EGW"
+    ],
+    "base": "d7835072-6ec8-49af-b9cf-22ad75e143da",
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PMEG3005EGW.pdf"
+    ],
+    "description": [
+        false,
+        "30 V, 0.5 A low VF Schottky barrier rectifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "eee71f1e-1662-4920-8e18-a9ea8fe9489f",
+    "value": [
+        true,
+        "base SOD-123 schottky diode"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "TUSB422"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tusb422"
+    ],
+    "description": [
+        false,
+        "USB Type-C™ Port Control with Power Delivery"
+    ],
+    "entity": "137b2824-434a-4e84-a821-90cf60c1c76a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a0828a31-06c2-4de2-8256-cc62f16ea06e",
+    "pad_map": {
+        "016a11c4-7c6d-4ca7-92eb-d286fb7d231f": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "b7d93794-d8eb-498a-af85-ce95b06fa8ab"
+        },
+        "155a80dd-e4fd-4b4a-9edc-10c7ad7466c4": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "83721ec0-5f1c-4030-9dee-82eac2cd4bb8"
+        },
+        "28a6d195-d5a6-42b2-b341-0e3e18bae273": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "862ce01c-cf27-4acf-9a63-2241a160366c"
+        },
+        "4e65f639-bb01-4fbb-9ed4-ce2d0487a07e": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "b4ea1b00-8760-49af-afd1-b98108c0e843"
+        },
+        "70ce9368-1138-47b1-a92a-59d1c59f93e1": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "0aa7f9e5-6b89-4891-ac77-c2e411fc3c3e"
+        },
+        "a47b8555-cc44-4a63-9016-09d56be569ae": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "b8a7a61c-dc5c-4b41-a248-fa404d677fa7"
+        },
+        "a6ac9a71-c756-4877-9ad1-ce7141d0c50f": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "e6bc9c6b-eaf0-4349-9fc5-9ea9ea08b085"
+        },
+        "b3e93f26-d8a1-4f52-9346-f48f487efff2": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "eacc55b0-b137-4613-be76-840b347ce863"
+        },
+        "eb7c39f2-ab59-447c-b552-aa8aef119194": {
+            "gate": "e9f84255-5dd3-4862-a989-a0418c4ffd34",
+            "pin": "9a897394-f477-4b8d-a76a-2667f11a3ba5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "interface",
+        "port controller",
+        "power delivery",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "f020a945-07f8-4bce-966a-0628b10bda82",
+    "value": [
+        false,
+        ""
+    ]
+}

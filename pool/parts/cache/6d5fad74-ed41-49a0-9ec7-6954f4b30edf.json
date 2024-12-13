@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "FUSB307B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/download/data-sheet/pdf/fusb307b-d.pdf"
+    ],
+    "description": [
+        false,
+        "USB Type-C Port Controller with USB-PD"
+    ],
+    "entity": "c98d105b-0ed0-4926-b3af-3322f3692d07",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ab7248f3-d550-434e-9f97-8ada46b09804",
+    "pad_map": {
+        "01f1e369-1c09-4814-b1db-c74796494321": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "a15b78fb-8655-4911-8885-0795df587226"
+        },
+        "0a48ff9a-4daf-41ab-90bf-a79ee6a9927a": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "2ae96c47-f688-4269-9d33-3f1c5dfe48f0"
+        },
+        "1525a70a-9005-4b7f-9aba-ab9e9b70ae9b": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "061faec6-c99b-4ad5-825c-04566066c808"
+        },
+        "1d4d1b68-abe0-4666-ab40-84335a41c0ef": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "c7a7e899-12bf-4eea-a1cc-c122f201d739"
+        },
+        "521f5fa1-3693-4acf-b06b-b6a9b8a5cf30": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "294ff581-9eab-4d94-9d7a-9db60ad629db"
+        },
+        "52b8e909-69c1-408f-a75e-59cab89a69d1": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "f9f86b36-f7bf-4102-9eec-69ccba7f72ce"
+        },
+        "58f45942-ee32-47fd-9e4e-a16c1ae6cd8b": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "58f6b325-4638-433b-b079-e36411b0d007"
+        },
+        "6233a030-3666-4de7-b3a8-4fda13d22ac3": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "c43dc262-b5c8-476a-a78a-54186b7cff22"
+        },
+        "67155d1b-c7e3-4893-b885-21572fe62676": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "91e724d2-b39b-4f6a-8a49-59d292760b68"
+        },
+        "770160ad-3e45-431c-8833-d1a3005649ba": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "fbd9f9c4-23d3-4715-ac1c-a8958f94cf7b"
+        },
+        "9e2ab086-173e-490f-b4e6-4814dea81b13": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "c47b1c50-6e6b-412f-abec-0ac57a287518"
+        },
+        "a91890ed-7ab1-47b2-8fff-533d034fad8f": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "34e25d75-0dbe-433a-8cd9-583bc8939101"
+        },
+        "ac26fbcb-be68-48ca-a9b5-3b411577d83a": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "326a4ab1-0745-4731-8f3f-24b7b4efb0f7"
+        },
+        "bbd532ef-1e8d-40aa-ad15-b064324d790c": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "5b843ef4-c5fd-498f-ad26-4622ca3ef19e"
+        },
+        "ec3aadbd-1165-4ac6-8d9d-64849d04e9cb": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "ed5cb8ee-5f9c-4c1e-b52a-9e99e76d2c4f"
+        },
+        "f70e0953-30c0-433b-b807-1b7e5458b58b": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "bcdf31b3-c9a6-44ae-b36e-e14ef90505c9"
+        },
+        "fe85c8c9-4364-4d44-9d74-2d68fa6c4ad1": {
+            "gate": "2f46c84c-2f95-451f-b857-fdb1f8cc3d91",
+            "pin": "58f6b325-4638-433b-b079-e36411b0d007"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6d5fad74-ed41-49a0-9ec7-6954f4b30edf",
+    "value": [
+        false,
+        ""
+    ]
+}

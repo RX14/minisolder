@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "SRBE210200"
+    ],
+    "datasheet": [
+        false,
+        "https://tech.alpsalpine.com/e/products/detail/SRBE210200/"
+    ],
+    "description": [
+        false,
+        "Encoder and Push Operation Type Switch"
+    ],
+    "entity": "373e61e2-e413-4a42-8e7d-0fe641d196a6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Alps Alpine"
+    ],
+    "model": "89a05a94-679e-4b25-b760-7eb2392c09ce",
+    "package": "eb59be15-b7d1-4b6c-a6d5-5c949f0b29cf",
+    "pad_map": {
+        "64f9d669-0271-4e7f-a3ef-3590f1aa8ea8": {
+            "gate": "406e91b0-5093-41e4-8d18-cf5ed7271b7f",
+            "pin": "1f71be8c-08a6-4b5e-ad34-94e954a34c73"
+        },
+        "c9c8a26a-a3a5-4e23-a63e-a06fa349e22e": {
+            "gate": "406e91b0-5093-41e4-8d18-cf5ed7271b7f",
+            "pin": "367f1eda-db64-471c-a7d7-37cfba5aea4a"
+        },
+        "f2674b97-4a89-47d0-978b-eb6f4b2b38dd": {
+            "gate": "406e91b0-5093-41e4-8d18-cf5ed7271b7f",
+            "pin": "053881e0-3367-4d75-8ec4-1de6de31dd70"
+        },
+        "f5954f27-1d75-4454-ba51-03d398f98684": {
+            "gate": "406e91b0-5093-41e4-8d18-cf5ed7271b7f",
+            "pin": "6e2fd25d-e859-4d46-aeff-267280df738c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "encoder",
+        "smd",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "01d56e47-5e36-471e-8cac-3489da0639e1",
+    "value": [
+        false,
+        ""
+    ]
+}

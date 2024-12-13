@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "base LxXNx3030 inductor"
+    ],
+    "datasheet": [
+        false,
+        "https://www.yuden.co.jp/en/product/support/pdf_spice_spara/upload/i_smd_NR_S_e.pdf"
+    ],
+    "description": [
+        false,
+        "Wire-wound Ferrite Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "48309490-98e8-4e32-a463-cbc7ea50c48c",
+    "pad_map": {
+        "834bb56b-9565-4357-9c2e-b5b2dbc4ca30": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "d637cf29-c279-4928-9680-e007147247ee": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "978ad110-75b4-44d8-b45a-caa1fa68cd19",
+    "value": [
+        false,
+        ""
+    ]
+}

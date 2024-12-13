@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TMP1075NDRL",
+    "pins": {
+        "55c4fab7-8d13-4733-9f4c-6bcce963d545": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "8b35ab6f-7121-46a8-bfdb-e9e3761fa2b0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "c0bdad95-4e9d-451e-b355-e9059008a0c6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "c134eb61-73b7-447c-a4c3-7aced85806b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "e057b3ec-286a-4d01-ad11-d38f38ce18fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e57c0015-e17b-4013-b79a-8d40722bd7f9": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a6c0d8ea-0105-4606-be53-612fc656b270"
+}

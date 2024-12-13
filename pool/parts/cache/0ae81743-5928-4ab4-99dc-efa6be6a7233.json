@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "TMP1075NDRL"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tmp1075"
+    ],
+    "description": [
+        false,
+        "±1°C I²C temperature sensor"
+    ],
+    "entity": "bc1defd7-2148-453d-8b56-fe0eae26b57b",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "668197f2-f90e-426c-b97c-6601452e3d4a",
+    "pad_map": {
+        "33d83e4b-c4de-4804-b999-28f87911bdf6": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "c134eb61-73b7-447c-a4c3-7aced85806b4"
+        },
+        "5656c05f-f939-4e4a-8411-32557be146aa": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "e57c0015-e17b-4013-b79a-8d40722bd7f9"
+        },
+        "63ff5ce1-3f90-4e3e-b653-1bff87e5bb0e": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "e057b3ec-286a-4d01-ad11-d38f38ce18fa"
+        },
+        "95330498-ced3-46c7-9949-9bcec02963b7": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "55c4fab7-8d13-4733-9f4c-6bcce963d545"
+        },
+        "c29f9c92-c0a7-4884-9464-02f50e2fdbbe": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "8b35ab6f-7121-46a8-bfdb-e9e3761fa2b0"
+        },
+        "d26c4057-3ed1-4f8f-b525-f8c646583f00": {
+            "gate": "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e",
+            "pin": "c0bdad95-4e9d-451e-b355-e9059008a0c6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "i2c",
+        "ic",
+        "sensor",
+        "smd",
+        "temperature"
+    ],
+    "type": "part",
+    "uuid": "0ae81743-5928-4ab4-99dc-efa6be6a7233",
+    "value": [
+        false,
+        ""
+    ]
+}

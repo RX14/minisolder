@@ -1,5 +1,6 @@
 {
     "arcs": {},
+    "can_expand": false,
     "junctions": {
         "0ab64161-d4fe-499b-be40-6a5707f58418": {
             "position": [
@@ -134,6 +135,7 @@
                 "schmitt": false
             },
             "length": 2500000,
+            "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "left",
             "pad_visible": true,
@@ -150,6 +152,7 @@
                 "schmitt": false
             },
             "length": 2500000,
+            "name_orientation": "in_line",
             "name_visible": false,
             "orientation": "right",
             "pad_visible": true,
@@ -163,8 +166,8 @@
     "text_placements": {
         "0m": {
             "584af48c-30d0-4410-98bf-257ac226902f": {
-                "angle": 32768,
-                "mirror": false,
+                "angle": 0,
+                "mirror": true,
                 "shift": [
                     3750000,
                     -2500000
@@ -199,8 +202,8 @@
         },
         "180m": {
             "584af48c-30d0-4410-98bf-257ac226902f": {
-                "angle": 0,
-                "mirror": false,
+                "angle": 32768,
+                "mirror": true,
                 "shift": [
                     -3750000,
                     2500000
@@ -236,7 +239,7 @@
         "270m": {
             "584af48c-30d0-4410-98bf-257ac226902f": {
                 "angle": 49152,
-                "mirror": false,
+                "mirror": true,
                 "shift": [
                     1250000,
                     -2500000
@@ -254,7 +257,7 @@
         "270n": {
             "584af48c-30d0-4410-98bf-257ac226902f": {
                 "angle": 49152,
-                "mirror": false,
+                "mirror": true,
                 "shift": [
                     1250000,
                     -2500000
@@ -308,14 +311,15 @@
     },
     "texts": {
         "584af48c-30d0-4410-98bf-257ac226902f": {
+            "font": "simplex",
             "from_smash": false,
             "layer": 0,
             "origin": "center",
             "placement": {
-                "angle": 0,
-                "mirror": false,
+                "angle": 49152,
+                "mirror": true,
                 "shift": [
-                    -3750000,
+                    1250000,
                     -2500000
                 ]
             },
@@ -324,15 +328,16 @@
             "width": 0
         },
         "ee48ba49-6541-4cf7-963d-67b474d49d0b": {
+            "font": "simplex",
             "from_smash": false,
             "layer": 0,
             "origin": "center",
             "placement": {
-                "angle": 0,
+                "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -3750000,
-                    2500000
+                    -1250000,
+                    -2500000
                 ]
             },
             "size": 1500000,
@@ -342,5 +347,6 @@
     },
     "type": "symbol",
     "unit": "5cf859e7-139d-4c32-8884-3510fb9c9ad4",
-    "uuid": "bace47c2-6ef3-4fb9-8f7f-040cce434b23"
+    "uuid": "bace47c2-6ef3-4fb9-8f7f-040cce434b23",
+    "version": 1
 }

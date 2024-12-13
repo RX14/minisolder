@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "LCXNE3030MKT100M"
+    ],
+    "base": "978ad110-75b4-44d8-b45a-caa1fa68cd19",
+    "datasheet": [
+        true,
+        "https://www.yuden.co.jp/en/product/support/pdf_spice_spara/upload/i_smd_NR_S_e.pdf"
+    ],
+    "description": [
+        false,
+        "10 µH, 0.72 A, 270 mΩ Wire-wound Ferrite Power Inductor for Automotive Body & Chassis and Infotainment"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Taiyo Yuden"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {
+        "dcr": "0.27",
+        "idc": "0.72",
+        "table": "inductors",
+        "value": "1e-05"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "272c6f05-e69b-4f47-ab74-e20a8ecd507d",
+    "value": [
+        false,
+        "10 µH"
+    ]
+}

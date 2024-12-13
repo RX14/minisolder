@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TUSB422",
+    "pins": {
+        "0aa7f9e5-6b89-4891-ac77-c2e411fc3c3e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "83721ec0-5f1c-4030-9dee-82eac2cd4bb8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCONN",
+            "swap_group": 0
+        },
+        "862ce01c-cf27-4acf-9a63-2241a160366c": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "9a897394-f477-4b8d-a76a-2667f11a3ba5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "b4ea1b00-8760-49af-afd1-b98108c0e843": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "b7d93794-d8eb-498a-af85-ce95b06fa8ab": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "b8a7a61c-dc5c-4b41-a248-fa404d677fa7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUSIN",
+            "swap_group": 0
+        },
+        "e6bc9c6b-eaf0-4349-9fc5-9ea9ea08b085": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "eacc55b0-b137-4613-be76-840b347ce863": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~INT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0a70668b-7ad9-4fc9-a3f6-34572675cb49"
+}

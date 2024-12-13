@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "fb9e96a1-897d-41d5-ad31-c8e7f64d9a6e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a6c0d8ea-0105-4606-be53-612fc656b270"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TMP1075NDRL",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "bc1defd7-2148-453d-8b56-fe0eae26b57b"
+}

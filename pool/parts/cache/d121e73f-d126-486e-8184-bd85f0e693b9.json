@@ -1,0 +1,153 @@
+{
+    "MPN": [
+        false,
+        "Generic 0.5 mm Pitch, Top Contact, 30-pin FPC connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "ad124f48-4dc8-4e55-8f00-ef42b9830016",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f91e8b62-5f53-42a3-aaff-4a1431bd8c5e",
+    "pad_map": {
+        "0346efd7-304c-4a8f-901e-a4bc7108290c": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "4e05ed91-186a-4799-b467-2ba12fdaff8a"
+        },
+        "22cfba68-da31-4ef7-af5e-d00e8a1591c4": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "84455334-cbce-451f-a3f3-80a60aef9dfe"
+        },
+        "26947a90-ae8b-4833-ad46-b8fabae4610e": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "bc1a1cee-5875-44ef-aab2-519abfb13d14"
+        },
+        "2d78021c-9384-4c26-b6cb-9747c9b2bfb2": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "f2a7568b-57df-449a-9abf-8884e7af9fc4"
+        },
+        "3d594067-5a76-4594-be56-9087c406a6b4": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "a4f0e8bc-2474-4a27-bfb8-e65461889573"
+        },
+        "3f35be97-e7ac-49fa-aa5f-d5a7a13a2cf7": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "95a2d67c-2a28-4c9b-9b01-20c07ca64fd7"
+        },
+        "499c730d-6f8c-49ca-a288-90f6e64a9fa4": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "3fe3f28e-0730-47aa-9743-53c3e456c874"
+        },
+        "4a9ffcec-bc09-4091-b541-b0b6264d0a06": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "33b3e1b5-623c-49e9-a5ba-d8aed45823b0"
+        },
+        "61dbdaf5-066f-490a-a6ed-fad2f97ad919": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "96dfd07e-ba4b-4cb4-bee2-5e73e2798d3d"
+        },
+        "7002b1f5-0c64-4644-84d5-50516e8b147c": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "3dedce14-173e-4427-b298-803dd3f1ff63"
+        },
+        "75512a03-6e31-46d6-89e1-5b3719d76f14": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "ada9028d-ca70-4ad5-8484-976b51d8c392"
+        },
+        "7aea5590-2690-494c-87dc-866bafd40b8a": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "ad2a8132-425d-492b-b7f5-e9f61aabe081"
+        },
+        "81154021-81f6-4120-8ec4-fa6cb6d9dc8f": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "96fdc69c-f9eb-47aa-9ae0-b8ca15e5938a"
+        },
+        "859635b3-ac13-4971-9588-eea3e51af155": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "8cc18b78-b116-4e4e-83a5-668861909847"
+        },
+        "9a434235-527a-4dda-882a-de4fbe32a725": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "518cec90-22fa-42b0-9017-6c2432e4cd7a"
+        },
+        "9afd8473-376f-4e5c-be1b-1f0c391d411d": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "2b180076-f7ef-45e7-9326-bd1b12abb3a7"
+        },
+        "a18bd185-3169-48fc-a91c-095105a23250": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "d77c71ca-9c6c-4410-80dc-b62dac39db66"
+        },
+        "a2cbab89-1556-428d-a874-3660e903d1d5": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "a7a4a4e1-3da7-46e8-b4c5-ee1eb41ea603"
+        },
+        "a62aa008-710e-42b1-9fe3-455aa0364410": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "8802f719-0204-4ffd-be0c-7a666ac5062f"
+        },
+        "a860b663-87e1-449b-8fe2-5c9b8f3b4bfc": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "f513759f-a5cd-4da2-a225-4ba26687249f"
+        },
+        "b52374a2-af93-46c3-b7d6-322953194f99": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "1af78c08-5bc1-4dd0-942c-8fa5ec9433f5"
+        },
+        "bc276c7e-6c54-495c-b151-ed541090489e": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "63078b48-a723-4cd1-971e-15399effff1c"
+        },
+        "bfc00579-52a0-471b-85ee-71c7c82814c2": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "e8fe65f4-b306-4b8f-ad55-23c63bdc339f"
+        },
+        "c2fdad68-aae6-4905-bd12-0dc2044be866": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "c4425ca6-017b-4261-9c35-2fc5ee4fffbd"
+        },
+        "c51d4877-da0a-4eae-a2f0-e49fdf3c6d4d": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "e1bcce6f-64f7-4ab1-8b3d-765e5cf64bfa"
+        },
+        "cbd6ad56-6871-44a5-92ef-1870629f744b": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "fa5362b1-4890-4892-a048-9130153506d6"
+        },
+        "da6a1623-f655-4e56-9cd8-569212f4f836": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "9dfd2dc4-4b5f-41fa-bda3-8e8fa5e645bc"
+        },
+        "da7b1135-687d-478d-b326-c08cdb621532": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "cd1be1b2-f566-47c8-b8f1-b07973b7aefa"
+        },
+        "de56eb03-e084-459f-9afb-ed2c2443c9df": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "6b9d5ae6-f248-4810-b8ba-00c603355cbc"
+        },
+        "e57e10aa-51bb-4731-92fa-843fff681671": {
+            "gate": "4adb0a78-c315-4e38-9705-029e23a21581",
+            "pin": "83dd31e6-0c53-463e-9127-2d17bdb03714"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d121e73f-d126-486e-8184-bd85f0e693b9",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "406e91b0-5093-41e4-8d18-cf5ed7271b7f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4f7d4ee5-d8ef-472b-b63f-9302d2f3dfd3"
+        }
+    },
+    "manufacturer": "",
+    "name": "Rotary Encoder with Push button (common terminal)",
+    "prefix": "S",
+    "tags": [],
+    "type": "entity",
+    "uuid": "373e61e2-e413-4a42-8e7d-0fe641d196a6"
+}

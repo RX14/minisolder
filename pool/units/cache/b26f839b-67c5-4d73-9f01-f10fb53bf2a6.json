@@ -1,0 +1,74 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH9340K",
+    "pins": {
+        "00c1fc95-81b5-4a0e-b2aa-98b781e06356": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~RTS",
+            "swap_group": 0
+        },
+        "17b35a28-2e0f-4920-8a4f-216cb31de2b8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V3",
+            "swap_group": 0
+        },
+        "24786f0c-1e9d-4141-99bb-0c57f32a76b7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "29e41e3d-5e6b-4a03-abdf-d57e74357c56": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~H_F",
+            "swap_group": 0
+        },
+        "700b7a09-f764-46d3-917c-3c46bf084be1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "8b2df396-8bc1-4728-a661-875c77b61693": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~DTR",
+            "swap_group": 0
+        },
+        "92dfb983-da69-4c0a-9093-bdd51e401c16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "96ccd736-ca42-4ff7-9751-4f7e402e4039": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~LOP",
+            "swap_group": 0
+        },
+        "b7001a9b-7a2a-4ecb-8466-e7111dacc498": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "e9723859-97c2-4c97-b299-b88e1d99fe2a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "f55998bd-632e-49e0-8757-fbbc2c244833": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b26f839b-67c5-4d73-9f01-f10fb53bf2a6"
+}

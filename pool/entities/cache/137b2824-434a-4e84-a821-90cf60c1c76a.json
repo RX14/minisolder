@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e9f84255-5dd3-4862-a989-a0418c4ffd34": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0a70668b-7ad9-4fc9-a3f6-34572675cb49"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TUSB422",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "137b2824-434a-4e84-a821-90cf60c1c76a"
+}

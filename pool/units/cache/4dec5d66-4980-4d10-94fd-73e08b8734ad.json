@@ -1,0 +1,123 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "FUSB307B",
+    "pins": {
+        "061faec6-c99b-4ad5-825c-04566066c808": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SRC",
+            "swap_group": 0
+        },
+        "294ff581-9eab-4d94-9d7a-9db60ad629db": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~DBG",
+            "swap_group": 0
+        },
+        "2ae96c47-f688-4269-9d33-3f1c5dfe48f0": {
+            "alt_names": {
+                "300421fe-b771-411a-938c-a4c21a4ce0b5": {
+                    "direction": "input",
+                    "name": "I2C_ADDR"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "ORIENT",
+            "swap_group": 0
+        },
+        "326a4ab1-0745-4731-8f3f-24b7b4efb0f7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCONN",
+            "swap_group": 0
+        },
+        "34e25d75-0dbe-433a-8cd9-583bc8939101": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO1",
+            "swap_group": 0
+        },
+        "58f6b325-4638-433b-b079-e36411b0d007": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5b843ef4-c5fd-498f-ad26-4622ca3ef19e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SNK",
+            "swap_group": 0
+        },
+        "91e724d2-b39b-4f6a-8a49-59d292760b68": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "a15b78fb-8655-4911-8885-0795df587226": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "bcdf31b3-c9a6-44ae-b36e-e14ef90505c9": {
+            "alt_names": {
+                "84a9ede2-5d45-4263-af16-f0905a1a0558": {
+                    "direction": "input",
+                    "name": "SDA2"
+                }
+            },
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL1",
+            "swap_group": 0
+        },
+        "c43dc262-b5c8-476a-a78a-54186b7cff22": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "c47b1c50-6e6b-412f-abec-0ac57a287518": {
+            "alt_names": {
+                "95913731-b12d-4600-bb41-9d06ca8eaf8c": {
+                    "direction": "input",
+                    "name": "SCL2"
+                }
+            },
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA1",
+            "swap_group": 0
+        },
+        "c7a7e899-12bf-4eea-a1cc-c122f201d739": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~INT",
+            "swap_group": 0
+        },
+        "ed5cb8ee-5f9c-4c1e-b52a-9e99e76d2c4f": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LDO",
+            "swap_group": 0
+        },
+        "f9f86b36-f7bf-4102-9eec-69ccba7f72ce": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2",
+            "swap_group": 0
+        },
+        "fbd9f9c4-23d3-4715-ac1c-a8958f94cf7b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4dec5d66-4980-4d10-94fd-73e08b8734ad",
+    "version": 1
+}

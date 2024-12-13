@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "MSPM0G1507xRGZ"
+    ],
+    "base": "27670aec-ae96-4210-8f46-23a438bde2b3",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/gpn/mspm0g1507"
+    ],
+    "description": [
+        false,
+        "80MHz Arm® Cortex®-M0+ MCU with 128KB flash 32KB SRAM 2x4Msps ADC, 12-bit DAC, 3xCOMP, 2xOPA, MATHAC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5505244d-7dde-4520-8167-67571dd81519",
+    "value": [
+        true,
+        "MSPM0G150xRGZ"
+    ]
+}

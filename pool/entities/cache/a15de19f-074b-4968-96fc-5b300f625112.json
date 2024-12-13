@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "ec13fcc1-4b61-4768-a845-6cbca88f6016": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "86676ea4-72c0-4ef2-957f-3d20b8424fbf"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "MSPM0G150xRGZ/PT",
+    "prefix": "U",
+    "tags": [
+        "analog",
+        "arm",
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "a15de19f-074b-4968-96fc-5b300f625112"
+}
